@@ -9,3 +9,5 @@
 * Repton
 * Sinistar
 * Snapper
+
+[pages](pages.roflmao.org)
