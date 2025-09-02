@@ -10,4 +10,4 @@
 * Sinistar
 * Snapper
 
-[pages](pages.roflmao.org)
+[pages](https://pages.roflmao.org)
